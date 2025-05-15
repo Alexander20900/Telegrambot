@@ -1,0 +1,6 @@
+Player 1 ID: 5036420521
+Player 2 ID: 5036420521
+Current Player: BLACK
+
+Move History:
+e2e4 g8f6 c2c3

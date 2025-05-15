@@ -1,0 +1,2 @@
+chess==1.11.2
+python_telegram_bot==22.0
